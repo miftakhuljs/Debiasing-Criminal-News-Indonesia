@@ -15,5 +15,6 @@ This project is licensed under the MIT License. See the [`LICENSE`](https://gith
 
 ---
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements or suggestions.
-Feel free to raise any issues or questions in the Issues section of this repository!
+
+Feel free to raise any issues or questions in the Issues section of this repository or [email](janah1448@gmail.com) me
 
